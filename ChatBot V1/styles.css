@@ -1,0 +1,83 @@
+* {
+  font-size: 1.3vw;
+  font-family: "Epilogue", sans-serif;
+}
+
+body {
+  background: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  height: 50vh;
+  width: 40vw;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#header {
+  background-color: #6200ea;
+  padding: 1vw;
+  text-align: center;
+}
+
+#header h1 {
+  color: #ffffff;
+  font-size: 2vw;
+  margin: 0;
+  font-family: "Finger Paint", cursive;
+}
+
+#message-section {
+  height: calc(100% - 12vw);
+  padding: 1vw;
+  overflow-y: auto;
+}
+
+.message {
+  margin: 1vw 0;
+  padding: 1vw;
+  border-radius: 15px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+#bot {
+  background-color: #e1bee7;
+  color: #000;
+}
+
+#user {
+  background-color: #6200ea;
+  color: #ffffff;
+  text-align: right;
+  align-self: flex-end;
+}
+
+#input-section {
+  display: flex;
+  padding: 1vw;
+  background-color: #eeeeee;
+  align-items: center;
+}
+
+#input-section input {
+  flex: 1;
+  border: none;
+  padding: 0.8vw;
+  font-size: 1.2vw;
+  border-radius: 15px;
+}
+
+.send {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: 1vw;
+}
