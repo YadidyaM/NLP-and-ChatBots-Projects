@@ -9,8 +9,7 @@ Interact with Yadi BOT in real-time here: [Yadi BOT Live](https://sunny-pika-628
 ## Preview
 
 Below is a preview of Yadi BOT's interface:
-
-![Yadi BOT Screenshot]("C:\\Users\\medep\\OneDrive\\Pictures\\Screenshots\\Screenshot (11).png")
+![Screenshot (11)](https://github.com/user-attachments/assets/dd815a21-0671-41e5-990a-fdd014a90d37)
 
 > **Note:** The image above is just a preview. For a real conversation, click on the link provided above!
 
